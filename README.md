@@ -23,7 +23,7 @@ This is where my self-learning certifications & projects are linked.
 * Economic indicators, currencies, fixed income, equities, commodities
 
 ## Bloomberg Finance Fundamentals ([credential](https://portal.bloombergforeducation.com/certificates/uoNwHWRHRyiuqDVZb5nrT4pX))
-* Explores key concepts in finance and investment and introduces various financial professions' role in the economy
+* Explores key concepts in finance and investment and introduces the roles of various financial professions in the economy
 * Financial institutions, types of investment, investing strategies, Circular Flow of Income
 
 
