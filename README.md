@@ -19,9 +19,11 @@ This is where my self-learning certifications & projects are linked.
 * Used learnings to implement an optimal ETF allocation solver maximizing expected risk-adjusted returns
 
 ## Bloomberg Market Concepts ([credential](https://portal.bloombergforeducation.com/certificates/jkv8m9PhosskW1QWMfE9c4io))
+* Explores key concepts in financial markets and drivers of changes in each area
 * Economic indicators, currencies, fixed income, equities, commodities
 
 ## Bloomberg Finance Fundamentals ([credential](https://portal.bloombergforeducation.com/certificates/uoNwHWRHRyiuqDVZb5nrT4pX))
+* Explores key concepts in finance and investment and introduces various financial professions' roles in the economy
 * Financial institutions, types of investment, investing strategies, Circular Flow of Income
 
 
