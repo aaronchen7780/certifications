@@ -1,4 +1,4 @@
-## Proofs of Completion
+# Proofs of Completion
 
 I completed this course under the free trial period, which means I had access to and completed all the required assessments but did not receive a course completion certificate upon completion.
 
