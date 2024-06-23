@@ -8,7 +8,7 @@ This is where my self-learning certifications & projects are linked.
 * No Arbitrage, pricing by replication, binomial model, Black Scholes, etc.
 * Took additional coursework exploring greeks, put-call parity, volatility smile, etc.
 
-## AWS Cloud Technical Essentials ([credential](https://github.com/aaronchen7780/certifications/tree/main/AWS))
+## AWS Cloud Technical Essentials ([credential](https://github.com/aaronchen7780/certifications/blob/main/AWS/README.md))
 * Offered by AWS on Coursera
 * IAM, EC2, Lambda, Fargate, ECS, S3, EBS, DynamoDB, RDS, EC2 Load Balancing/Auto Scaling, etc.
 * VPCs, subnets, security groups, roles, groups, etc.
